@@ -9,4 +9,4 @@
 
 多个样本的分析看[多个样本的分析.md](多个样本的分析.md)，整合分析的方法包括锚点法和harmony法两种
 
-R scripts放在[demo](demo)文件夹中，[demo.R](demo/demo.R)是第三步的代码，[merge.R](demo/merge.R)是第四步整合分析的代码
+R scripts放在[demo](demo)文件夹中，[demo.R](demo/demo.R)是第三步的代码，[merge.R](demo/merge.R)是第四步整合分析的代码（包括了笔记中略的内容）
