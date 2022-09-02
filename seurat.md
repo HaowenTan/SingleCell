@@ -1,7 +1,7 @@
 # seurat
 ## seurat能做什么
-
-![图 1](images/7926fb54005aa443eb097e356021dc2b42842e42b639348e64110bc94d367d98.png)  
+ 
+![图 1](images/955ef4bb5710a65214f4afe99b0f7f64e8660af40594d750f0ad0cd446f9789d.png)  
 
 中Seurat能进行分析的部分有“**数据质控**→**基因表达标准化**→降**维聚类**→marker基因鉴定/细胞类型鉴定/细胞亚群分析
 
